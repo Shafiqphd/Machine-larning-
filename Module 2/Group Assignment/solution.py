@@ -1,3 +1,6 @@
+# you can download the google co-lab file from following link 
+https://colab.research.google.com/drive/1B9guNPETiil-gDPJBekyGiTPlg0PaYo7?usp=sharing
+
 # Step 1 
 from sklearn.datasets import load_iris
 from sklearn.feature_selection import mutual_info_classif
